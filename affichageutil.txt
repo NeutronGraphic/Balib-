@@ -1,0 +1,57 @@
+double Moyenne(double x, double y)
+A retenir :
+{ }
+return (x + y) / 2.0;
+char LireCaractere()
+{
+}
+char c; cin >> c; return c;
+void AfficherValeurs(int nombre, double valeur)
+{
+}
+cout << ’\t’ << nombre << ’\t’ << valeur << ’\n’;double Moyenne(double x, double y)
+A retenir :
+{ }
+return (x + y) / 2.0;
+char LireCaractere()
+{
+}
+char c; cin >> c; return c;
+void AfficherValeurs(int nombre, double valeur)
+{
+}
+cout << ’\t’ << nombre << ’\t’ << valeur << ’\n’;
+double Moyenne(double x, double y)
+A retenir :
+{ }
+return (x + y) / 2.0;
+char LireCaractere()
+{
+}
+char c; cin >> c; return c;
+void AfficherValeurs(int nombre, double valeur)
+{
+}
+cout << ’\t’ << nombre << ’\t’ << valeur << ’\n’;double Moyenne(double x, double y)
+A retenir :
+{ }
+return (x + y) / 2.0;
+char LireCaractere()
+{
+}
+char c; cin >> c; return c;
+void AfficherValeurs(int nombre, double valeur)
+{
+}
+cout << ’\t’ << nombre << ’\t’ << valeur << ’\n’;double Moyenne(double x, double y)
+A retenir :
+{ }
+return (x + y) / 2.0;
+char LireCaractere()
+{
+}
+char c; cin >> c; return c;
+void AfficherValeurs(int nombre, double valeur)
+{
+}
+cout << ’\t’ << nombre << ’\t’ << valeur << ’\n’;
