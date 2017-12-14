@@ -1,0 +1,33 @@
+/*******************************************************
+Nom ......... : limites.c
+Role ........ : Affiche les caractéristiques numériques
+                pour les types du langage C
+Auteur ...... : Thierry46
+Version ..... : V1.1 du 10/3/2008
+Licence ..... : GPL
+
+Compilation :
+gcc -Wall -pedantic -std=c99 -o limites.exe limites.c
+Pour exécuter, tapez : ./limites.exe
+********************************************************/
+   //...
+        // Teste si les valeurs lues sont les valeurs attendues.
+        for (i=0; i<(int)nbInt; i++)
+        {
+                (void)printf("%d, ", valIntLu[i]);
+                if ( valIntLu[i] != valInt[i] )
+                {
+                        (void)printf("Au lieu de %d\n", valInt[i]);
+                        exit(EXIT_FAILURE);
+                }
+        }   //...
+        // Teste si les valeurs lues sont les valeurs attendues.
+        for (i=0; i<(int)nbInt; i++)
+        {
+                (void)printf("%d, ", valIntLu[i]);
+                if ( valIntLu[i] != valInt[i] )
+                {
+                        (void)printf("Au lieu de %d\n", valInt[i]);
+                        exit(EXIT_FAILURE);
+                }
+        }
